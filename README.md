@@ -14,9 +14,7 @@ To process data:
 	- NB: this script needs to be run before proceeding with subsequent steps
 4. Run `WGS_alignment.sh`
 	- Calculates WGS coverage
-5. Process and filter reads with `process_transgene_reads.py`
-	- Usage: `python process_transgene_reads.py transgene_ref input_sam output_csv`
-	- Sample usage: `python process_transgene_reads.py references/220416_template+rDNAflanks.fa ZoAl_TCA5.sam ZoAl_TCA5_reads.csv`
+5. Process and filter reads with `process_transgene_reads.ipynb`
 6. Analyze and plot data with `transgene_data_analysis.ipynb`
 
 Code covered under MIT License.
