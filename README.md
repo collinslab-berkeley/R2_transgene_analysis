@@ -2,7 +2,7 @@
 #### Bioinformatic analysis package for whole-genome sequencing data following R2-mediated transgene addition
 
 ## Overview
-The contents of this repository allow analysis of R2 retrotransposon-mediated transgene insertions from whole-genome sequencing data. Corresponding WGS data available on the SRA (`accession TBD`). Bash scripts are tailored for use on Savio, UC Berkeley/LBNL's HPC cluster, with a SLURM scheduling system. Python scripts and jupyter notebooks can be run locally.
+The contents of this repository allow analysis of R2 retrotransposon-mediated transgene insertions from whole-genome sequencing data. Corresponding WGS data available on the SRA (`project accession PRJNA910950`). Bash scripts are tailored for use on Savio, UC Berkeley/LBNL's HPC cluster, with a SLURM scheduling system. Python scripts and jupyter notebooks can be run locally.
 
 To process data:
 1. Place raw sequencing data in directory named `00-RawData`
