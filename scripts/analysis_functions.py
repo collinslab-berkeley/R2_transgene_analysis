@@ -13,7 +13,7 @@ from scipy.signal import savgol_filter
 from fuzzysearch import find_near_matches
 from matplotlib import patches
 from scipy import stats
-from process_reads_v3 import *
+from process_reads import *
 
 @dataclass
 class read_part:
