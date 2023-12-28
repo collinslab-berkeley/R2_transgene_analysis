@@ -1,6 +1,8 @@
 # R2 transgene analysis
 #### Bioinformatic analysis package for whole-genome sequencing data following R2-mediated transgene addition
 
+[![DOI](https://zenodo.org/badge/569943903.svg)](https://zenodo.org/doi/10.5281/zenodo.10439695)
+
 ## Overview
 The contents of this repository allow analysis of R2 retrotransposon-mediated transgene insertions from whole-genome sequencing data. Corresponding WGS data available on the SRA (`project accession PRJNA910950`). Bash scripts are tailored for use on Savio, UC Berkeley/LBNL's HPC cluster, with a SLURM scheduling system. Python scripts and jupyter notebooks can be run locally.
 
